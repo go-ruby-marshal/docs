@@ -43,6 +43,7 @@ nav:
   - Home: index.md
   - API: api.md
   - The Marshal format: format.md
+  - Performance: performance.md
   - Contributing: contributing.md
 
 markdown_extensions:
