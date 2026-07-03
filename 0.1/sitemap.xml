@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://go-ruby-marshal.github.io/docs/0.1/</loc>
-         <lastmod>2026-06-22</lastmod>
+         <lastmod>2026-07-03</lastmod>
     </url>
     <url>
          <loc>https://go-ruby-marshal.github.io/docs/0.1/api/</loc>
-         <lastmod>2026-06-22</lastmod>
+         <lastmod>2026-07-03</lastmod>
     </url>
     <url>
          <loc>https://go-ruby-marshal.github.io/docs/0.1/contributing/</loc>
-         <lastmod>2026-06-22</lastmod>
+         <lastmod>2026-07-03</lastmod>
     </url>
     <url>
          <loc>https://go-ruby-marshal.github.io/docs/0.1/format/</loc>
-         <lastmod>2026-06-22</lastmod>
+         <lastmod>2026-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://go-ruby-marshal.github.io/docs/0.1/performance/</loc>
+         <lastmod>2026-07-03</lastmod>
     </url>
 </urlset>
