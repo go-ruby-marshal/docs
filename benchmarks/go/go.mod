@@ -1,5 +1,5 @@
 module bench
 
-go 1.26.4
+go 1.27.1
 
-require github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451
+require github.com/go-ruby-marshal/marshal v0.0.0-20261011001655-c4c7450d0365
